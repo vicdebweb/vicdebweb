@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Víctor! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l378nKS3wZs2R5cuA/giphy.gif" width="300" alt="fun work gif"/>
-</p>
-
-<p align="center">
   💻 Junior Web Developer · Girona · Looking for my first opportunity<br>
   🌱 Certified in Web Application Development (CP3)<br>
   🧠 Learning modern technologies and best practices in web development
