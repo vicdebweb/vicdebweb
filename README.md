@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Víctor! 👋</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l378nKS3wZs2R5cuA/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdmMDI1aG1qdjhodGVsdnQxeGFuaTVydGZiOWNramdobmc1MWVrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BemKqR9RDK4V2/giphy.gif)" width="300" alt="fun work gif"/>
+  <img src="https://media.giphy.com/media/l378nKS3wZs2R5cuA/giphy.gif" width="300" alt="fun work gif"/>
 </p>
 
 <p align="center">
