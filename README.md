@@ -19,7 +19,7 @@
 ### 🚀 Personal Projects
 
 - [🌶️ Spices Website]  
-  Static website built with HTML, CSS, vanilla JS and a functional PHP contact form.
+  Static website built with HTML, CSS, JS and a functional PHP contact form.
 
 - [👨‍💻 Personal Portfolio]  
   Minimalist design inspired by modern web portfolios, with smooth animations and technical focus.
