@@ -24,12 +24,15 @@
 - [👨‍💻 Personal Portfolio]  
   Minimalist design inspired by modern web portfolios, with smooth animations and technical focus.
 
+- [🎮 Tic Tac Toe Game]
+Classic Tic Tac Toe game built with HTML, CSS and JavaScript. Simple & Clean UI and responsive design,
+showcasing DOM manipulation and game logic handling.
+
 ---
 
 ### 🔎 Currently...
 
-- 🧪 Transitioning from the healthcare field.  
-- 🚀 Building my GitHub and LinkedIn profiles.  
+- 🧪 Transitioning from the healthcare field.
 - 🔍 Looking for my first job as a web developer.
 
 ---
